@@ -2,11 +2,14 @@
   "success": true,
   "asset": "TWOSIXPEPE",
   "image": "https://raw.githubusercontent.com/tp-7/Gallery/main/BTCTWOSIXPEPE48x48.png",
-  "description": "1 BTC = 1 BTC",
+  "description": " <br /><img src=\"https://raw.githubusercontent.com/tp-7/Gallery/main/BTCTWOSIXPEPE400x560.png\" class=\"img-responsive\" /><br />   <div><p>1 BTC = 1 BTC &nbsp;</p></div>",  
   "image_title": "BTCTWOSIXPEPE",
   "website": "https://pepe.wtf/artists/Pinocchio/",
+  "pgpsig": "pinocchio",
   "category": "Organization",
+  "subcategory": "",
+  "category_custom": "",
   "name": "BTCTWOSIXPEPE",
   "website_social_twitter": "https://twitter.com/TrustyPinocchio",
-  "image_large": "https://raw.githubusercontent.com/tp-7/Gallery/main/BTCTWOSIXPEPE400x560.png"
+  "image_large": "https://raw.githubusercontent.com/tp-7/Gallery/main/BTCTWOSIXPEPE400x560.png\"
 }
