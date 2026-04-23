@@ -1,15 +1,15 @@
 {
   "success": true,
   "asset": "PEPEPACKS",
-  "image": "https://bafybeicrslxq23667kxruurrtu5rnjzcazdluoq6kl3qunsnk7ifyiexda.ipfs.w3s.link/HOTCOCO48x48.png",
-  "description": " <br /><img src=\"https://bafybeigtnrf33eat37aufebm54yf2ld2efctmq4uvcjutxw4bb7mmsd76u.ipfs.w3s.link/HOTCOCO.png\" class=\"img-responsive\" /><br />   <div><p>Introducing Series 1 of the Rare Pepe Collection! 150 Pepe packs available with hit favorites such as RAREPEPE, HAIRPEPE, UFOPEPE, and more! Only 150 packs created in the 10 year anniversary print. Available for pickup at the Bitcoin 2026 conference in Las Vegas. Message @TrustyPinocchio on X for more information! &nbsp;</p></div>",  
+  "image": "https://raw.githubusercontent.com/tp-7/Gallery/main/PEPEPACKS48x48.png",
+  "description": " <br /><img src=\"https://raw.githubusercontent.com/tp-7/Gallery/main/PEPEPACKS.png\" class=\"img-responsive\" /><br />   <div><p>Introducing Series 1 of the Rare Pepe Collection! 150 Pepe packs available with hit favorites such as RAREPEPE, HAIRPEPE, UFOPEPE, and more! Only 150 packs created in the 10 year anniversary print. Available for pickup at the Bitcoin 2026 conference in Las Vegas. Message @TrustyPinocchio on X for more information! &nbsp;</p></div>",  
   "image_title": "PEPEPACKS",
   "website": "",
   "pgpsig": "pinocchio",
-  "category": "Trading Cards",
-  "subcategory": "",
+  "category": "Rare Pepe Collection",
+  "subcategory": "Series 1",
   "category_custom": "",
   "name": "PEPEPACKS",
   "website_social_twitter": "https://twitter.com/TrustyPinocchio",
-  "image_large": "https://private-user-images.githubusercontent.com/118585642/581090836-a10928e5-9a1b-465f-bf8c-9cc88516302f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3MjgxNjMsIm5iZiI6MTc3NjcyNzg2MywicGF0aCI6Ii8xMTg1ODU2NDIvNTgxMDkwODM2LWExMDkyOGU1LTlhMWItNDY1Zi1iZjhjLTljYzg4NTE2MzAyZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyMFQyMzMxMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZmZjNzMyMTEwNjA2MzcxNGM1NDI5ZjljNDA2OWFlNGFhMjFiNzFmYTI1NzcyMjBkMTA2ODI5NzZiMTk1MGIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.YWstt3H4NvnrjltHVhxWQqAYojOgWZ3PHxwX0pBVwDc"
+  "image_large": "https://raw.githubusercontent.com/tp-7/Gallery/main/PEPEPACKS.png/"
 }
