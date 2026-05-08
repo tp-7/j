@@ -2,7 +2,7 @@
   "success": true,
   "asset": "The 70k EP",
   "image": "https://raw.githubusercontent.com/tp-7/Gallery/refs/heads/main/70k48x48.png",
-  "description": " <br /><img src=\"https://raw.githubusercontent.com/tp-7/Gallery/refs/heads/main/The70KEP.gif\" class=\"img-responsive\" /><br />   <div><p>7 Songs to celebrate our daily 70,000 moments. &nbsp;</p></div>",  
+  "description": "<br /><img src=\"https://raw.githubusercontent.com/tp-7/Gallery/refs/heads/main/The70KEP.gif\" class=\"img-responsive\" /><br /><audio autoplay controls><source src=\"https://raw.githubusercontent.com/tp-7/Gallery/refs/heads/main/1.-seventy-k.mp3\" type=\"audio/mpeg\"></audio><div><p>7 Songs to celebrate our daily 70,000 moments.&nbsp;</p></div>",
   "image_title": "The 70k EP",
   "website": "",
   "pgpsig": "pinocchio",
@@ -12,6 +12,5 @@
   "name": "The 70K EP",
   "website_social_twitter": "https://twitter.com/TrustyPinocchio",
   "image_large": "https://raw.githubusercontent.com/tp-7/Gallery/refs/heads/main/The70KEP.gif",
-  "audio": "https://github.com/tp-7/Gallery/raw/refs/heads/main/1.-seventy-k.mp3",
-  "audio": "https://github.com/tp-7/Gallery/raw/refs/heads/main/1.-seventy-k.mp3"
+  "audio": "https://raw.githubusercontent.com/tp-7/Gallery/refs/heads/main/1.-seventy-k.mp3"
 }
