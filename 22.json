@@ -1,8 +1,8 @@
 {
   "success": true,
   "asset": "PEPESTEPE",
-  "image": "https://raw.githubusercontent.com/tp-7/Gallery/main/PEPESTEPE48x48.PNG",
-    "description": " <br /><img src=\"https://raw.githubusercontent.com/tp-7/Gallery/main/PEPESTEPE400x560.PNG\" class=\"img-responsive\" /><br />   <div><p>Put some Pepe in your stepe. MAKE MORE MEMES&nbsp;</p></div>",
+  "image": "https://raw.githubusercontent.com/tp-7/Gallery/main/PEPESTEPE48x48.png",
+    "description": " <br /><img src=\"https://raw.githubusercontent.com/tp-7/Gallery/main/PEPESTEPE400x560.png\" class=\"img-responsive\" /><br />   <div><p>Put some Pepe in your stepe. MAKE MORE MEMES&nbsp;</p></div>",
   "image_title": "PEPESTEPE",
   "website": "",
   "pgpsig": "pinocchio",
@@ -11,5 +11,5 @@
   "category_custom": "",
   "name": "PEPESTEPE",
   "website_social_twitter": "https://twitter.com/TrustyPinocchio",
-  "image_large": "https://raw.githubusercontent.com/tp-7/Gallery/main/PEPESTEPE400x560.PNG"
+  "image_large": "https://raw.githubusercontent.com/tp-7/Gallery/main/PEPESTEPE400x560.png"
 }
